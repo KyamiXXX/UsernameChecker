@@ -1,0 +1,11 @@
+{
+      "name": "puppeteer-checker",
+        "version": "1.0.0",
+          "main": "username-checker.js",
+            "dependencies": {
+                "puppeteer": "^22.0.0"
+                  },
+                    "scripts": {
+                        "start": "node username-checker.js"
+                          }
+                          }
